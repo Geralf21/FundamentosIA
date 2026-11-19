@@ -247,6 +247,8 @@ FIN PROGRAMA
 
 ## �📝 Autor
 
+**Sofia Suppia** 
 **Fiorella Cordero**  
 Octubre 2025  
 Fundamentos de Inteligencia Artificial
+Guayerd & IBM
